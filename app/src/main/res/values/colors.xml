@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#0F4671</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="clear">#00000000</color>
+    <color name="brand">#6870AE</color>
+    <color name="tint">#5c6398</color>
+    <color name="tintLight">#9498BE</color>
+    <color name="tintSeparator">#AA9498BE</color>
+    <color name="tintBackground">#EFF0F9</color>
+    <color name="tintAccent">#D20000</color>
+    <color name="tintAccentDisabled">#C37474</color>
+    <color name="tintPressed">#D20000</color>
+    <color name="tintDisabled">#e6878787</color>
+
+    <color name="colorAlertConfirm">#527DAD</color>
+    <color name="colorAlertError">#C24537</color>
+    <color name="colorAlertWarning">#FFAF40</color>
+    <color name="colorAlertNotify">#68BF60</color>
+
+    <color name="overlayTint10">#1A6870AE</color>
+    <color name="overlayTint20">#336870AE</color>
+    <color name="overlayTint30">#4D6870AE</color>
+    <color name="overlayTint40">#666870AE</color>
+    <color name="overlayTint50">#806870AE</color>
+    <color name="overlayTint60">#996870AE</color>
+    <color name="overlayTint70">#B36870AE</color>
+    <color name="overlayTint80">#CC6870AE</color>
+    <color name="overlayTint90">#E66870AE</color>
+
+    <color name="textNormal">@color/tint</color>
+    <color name="textSubtitle">#A86870AE</color>
+    <color name="textHighlight">#486870AE</color>
+    <color name="textLight">#A06870AE</color>
+    <color name="textDark">#121212</color>
+
+    <color name="colorOpacityBackground">@color/clear</color>
+</resources>

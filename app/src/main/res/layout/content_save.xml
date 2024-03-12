@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="?android:attr/actionButtonStyle"
+    android:id="@+id/action_frame_save"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/clear"
+    android:clickable="true"
+    android:padding="0dp"
+    android:contentDescription="lol">
+    <ImageButton
+        style="@style/Widget.Material3.Button.Icon"
+        android:id="@+id/action_menu_save"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:contentDescription="@null"
+        android:scaleType="centerInside"
+        android:padding="0dp"
+        app:icon="@drawable/icon_save"
+        android:src="@drawable/icon_save"
+        app:tint="@color/tint" />
+</RelativeLayout>
